@@ -25,7 +25,7 @@ The dataset includes the following columns:
 ## Cleaning and Preparation Process
 
 The project involves the following steps:
-- Standardization of job titles (e.g., grouping similar roles like "data scientist" and "junior data scientist").
+- Standardization of job titles (e.g., grouping similar roles like "data scientist" and "senior data scientist").
 - Parsing and cleaning salary data, including handling missing values.
 - Splitting the location column into separate city and country columns for better analysis.
 - One-hot encoding of skills to allow skill frequency analysis.
